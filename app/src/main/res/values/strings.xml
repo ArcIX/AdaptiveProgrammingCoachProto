@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">APC_Proto</string>
+    <string name="txf_user">Username</string>
+    <string name="txf_pass">Password</string>
+    <string name="stat_wc">Welcome!</string>
+    <string name="title_activity_test_screen">TestScreen</string>
+</resources>

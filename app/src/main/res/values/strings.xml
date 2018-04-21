@@ -4,4 +4,44 @@
     <string name="txf_pass">Password</string>
     <string name="stat_wc">Welcome!</string>
     <string name="title_activity_test_screen">TestScreen</string>
+    <string-array name="lessons">
+        <item>
+            Programming Fundamentals
+        </item>
+    </string-array>
+    <string-array name="modules">
+        <item>
+            Read and Print
+        </item>
+        <item>
+            Variables and Data Types
+        </item>
+        <item>
+            Operators
+        </item>
+        <item>
+            Conditionals
+        </item>
+        <item>
+            Loops
+        </item>
+    </string-array>
+    <string-array name="content_read_and_print">
+        <item>
+            Use document.write() to print.
+        </item>
+        <item>
+            Use prompt() to ask for input.
+        </item>
+    </string-array>
+    <string-array name="codes_read_and_print">
+        <item>
+            document.write("Hello world");
+        </item>
+        <item>
+            var x = prompt("Enter your name:");
+            document.write(x);
+        </item>
+    </string-array>
+    <string name="instruct_read_and_print">Create a javascript code that will print \"Hello world!\".</string>
 </resources>
